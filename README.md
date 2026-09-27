@@ -1,9 +1,9 @@
-# To-Do List
+# To Do List
 
-A single-page vanilla JS/HTML/CSS to-do list: add items to an in-memory list and have them rendered to the page.
+A one page app in vanilla JS, HTML, and CSS: add items to a list held in memory and see them rendered on the page.
 
 ## Requirements
-None — plain HTML/CSS/JS, no build step or dependencies.
+None; it's plain HTML, CSS, and JS, with no build step or dependencies.
 
 ## Running it
 Open `index.html` in a browser.
